@@ -1,0 +1,2 @@
+# Fakecoin
+www.thefakecoin.com
